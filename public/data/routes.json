@@ -1,0 +1,2522 @@
+[
+  {
+    "id": "c-route-01",
+    "slug": "7天C语言入门",
+    "title": "7天C语言入门",
+    "description": "7天C语言入门：针对零基础快速入门的7天路线。",
+    "summary": "7天C语言入门",
+    "targetUser": "零基础快速入门",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-02",
+    "slug": "14天C语言基础",
+    "title": "14天C语言基础",
+    "description": "14天C语言基础：针对C语言基础语法的14天路线。",
+    "summary": "14天C语言基础",
+    "targetUser": "C语言基础语法",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-03",
+    "slug": "21天C语言全面",
+    "title": "21天C语言全面",
+    "description": "21天C语言全面：针对系统学习C语言的21天路线。",
+    "summary": "21天C语言全面",
+    "targetUser": "系统学习C语言",
+    "durationDays": 21,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-21天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-21天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-04",
+    "slug": "30天C语言高手",
+    "title": "30天C语言高手",
+    "description": "30天C语言高手：针对全面掌握C语言的30天路线。",
+    "summary": "30天C语言高手",
+    "targetUser": "全面掌握C语言",
+    "durationDays": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-30天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-05",
+    "slug": "45天C语言与数据结构",
+    "title": "45天C语言与数据结构",
+    "description": "45天C语言与数据结构：针对C语言与数据结构的45天路线。",
+    "summary": "45天C语言与数据结构",
+    "targetUser": "C语言与数据结构",
+    "durationDays": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-35天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-06",
+    "slug": "60天C语言项目实战",
+    "title": "60天C语言项目实战",
+    "description": "60天C语言项目实战：针对C语言项目训练的60天路线。",
+    "summary": "60天C语言项目实战",
+    "targetUser": "C语言项目训练",
+    "durationDays": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-35天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-07",
+    "slug": "数组专项训练",
+    "title": "数组专项训练",
+    "description": "数组专项训练：针对数组与字符串的7天路线。",
+    "summary": "数组专项训练",
+    "targetUser": "数组与字符串",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-08",
+    "slug": "函数专项训练",
+    "title": "函数专项训练",
+    "description": "函数专项训练：针对函数与作用域的7天路线。",
+    "summary": "函数专项训练",
+    "targetUser": "函数与作用域",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-09",
+    "slug": "指针专项训练",
+    "title": "指针专项训练",
+    "description": "指针专项训练：针对指针突破的10天路线。",
+    "summary": "指针专项训练",
+    "targetUser": "指针突破",
+    "durationDays": 10,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-10天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-10天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-10天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-10天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-10",
+    "slug": "结构体专项",
+    "title": "结构体专项",
+    "description": "结构体专项：针对结构体与链表的7天路线。",
+    "summary": "结构体专项",
+    "targetUser": "结构体与链表",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-11",
+    "slug": "文件操作专项",
+    "title": "文件操作专项",
+    "description": "文件操作专项：针对文件编程的5天路线。",
+    "summary": "文件操作专项",
+    "targetUser": "文件编程",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-12",
+    "slug": "动态内存专项",
+    "title": "动态内存专项",
+    "description": "动态内存专项：针对动态内存管理的5天路线。",
+    "summary": "动态内存专项",
+    "targetUser": "动态内存管理",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-13",
+    "slug": "编程题专项",
+    "title": "编程题专项",
+    "description": "编程题专项：针对编程题训练的14天路线。",
+    "summary": "编程题专项",
+    "targetUser": "编程题训练",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-14",
+    "slug": "调试训练",
+    "title": "调试训练",
+    "description": "调试训练：针对gdb调试的5天路线。",
+    "summary": "调试训练",
+    "targetUser": "gdb调试",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-15",
+    "slug": "课程设计专项",
+    "title": "课程设计专项",
+    "description": "课程设计专项：针对项目实战的14天路线。",
+    "summary": "课程设计专项",
+    "targetUser": "项目实战",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-16",
+    "slug": "C语言复习冲刺",
+    "title": "C语言复习冲刺",
+    "description": "C语言复习冲刺：针对复习巩固的7天路线。",
+    "summary": "C语言复习冲刺",
+    "targetUser": "复习巩固",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-17",
+    "slug": "计算机二级C冲刺",
+    "title": "计算机二级C冲刺",
+    "description": "计算机二级C冲刺：针对二级备考的14天路线。",
+    "summary": "计算机二级C冲刺",
+    "targetUser": "二级备考",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-18",
+    "slug": "嵌入式C入门",
+    "title": "嵌入式C入门",
+    "description": "嵌入式C入门：针对嵌入式C基础的7天路线。",
+    "summary": "嵌入式C入门",
+    "targetUser": "嵌入式C基础",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-19",
+    "slug": "C语言算法训练",
+    "title": "C语言算法训练",
+    "description": "C语言算法训练：针对算法实现的10天路线。",
+    "summary": "C语言算法训练",
+    "targetUser": "算法实现",
+    "durationDays": 10,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-10天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-10天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-10天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-10天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-20",
+    "slug": "链表专项训练",
+    "title": "链表专项训练",
+    "description": "链表专项训练：针对链表操作的5天路线。",
+    "summary": "链表专项训练",
+    "targetUser": "链表操作",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-21",
+    "slug": "字符串处理专项",
+    "title": "字符串处理专项",
+    "description": "字符串处理专项：针对字符串方法的7天路线。",
+    "summary": "字符串处理专项",
+    "targetUser": "字符串方法",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-22",
+    "slug": "文件综合应用",
+    "title": "文件综合应用",
+    "description": "文件综合应用：针对文件项目的7天路线。",
+    "summary": "文件综合应用",
+    "targetUser": "文件项目",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-23",
+    "slug": "多文件编程",
+    "title": "多文件编程",
+    "description": "多文件编程：针对模块化编程的3天路线。",
+    "summary": "多文件编程",
+    "targetUser": "模块化编程",
+    "durationDays": 3,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-3天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-3天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-3天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-3天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-3天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-24",
+    "slug": "C与数据结构",
+    "title": "C与数据结构",
+    "description": "C与数据结构：针对数据结构的10天路线。",
+    "summary": "C与数据结构",
+    "targetUser": "数据结构",
+    "durationDays": 10,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-10天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-10天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-10天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-10天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-25",
+    "slug": "递归专项",
+    "title": "递归专项",
+    "description": "递归专项：针对递归编程的5天路线。",
+    "summary": "递归专项",
+    "targetUser": "递归编程",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-26",
+    "slug": "指针进阶",
+    "title": "指针进阶",
+    "description": "指针进阶：针对指针深入的7天路线。",
+    "summary": "指针进阶",
+    "targetUser": "指针深入",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-27",
+    "slug": "位运算专项",
+    "title": "位运算专项",
+    "description": "位运算专项：针对位操作的3天路线。",
+    "summary": "位运算专项",
+    "targetUser": "位操作",
+    "durationDays": 3,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-3天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-3天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-3天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-3天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-3天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-28",
+    "slug": "预处理专题",
+    "title": "预处理专题",
+    "description": "预处理专题：针对预处理指令的3天路线。",
+    "summary": "预处理专题",
+    "targetUser": "预处理指令",
+    "durationDays": 3,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-3天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-3天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-3天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-3天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-3天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-29",
+    "slug": "C标准库学习",
+    "title": "C标准库学习",
+    "description": "C标准库学习：针对标准库使用的7天路线。",
+    "summary": "C标准库学习",
+    "targetUser": "标准库使用",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-30",
+    "slug": "代码优化训练",
+    "title": "代码优化训练",
+    "description": "代码优化训练：针对优化技巧的5天路线。",
+    "summary": "代码优化训练",
+    "targetUser": "优化技巧",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-31",
+    "slug": "C语言面试准备",
+    "title": "C语言面试准备",
+    "description": "C语言面试准备：针对面试准备的14天路线。",
+    "summary": "C语言面试准备",
+    "targetUser": "面试准备",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-32",
+    "slug": "嵌入式编程基础",
+    "title": "嵌入式编程基础",
+    "description": "嵌入式编程基础：针对嵌入式入门的7天路线。",
+    "summary": "嵌入式编程基础",
+    "targetUser": "嵌入式入门",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-33",
+    "slug": "操作系统C编程",
+    "title": "操作系统C编程",
+    "description": "操作系统C编程：针对OS与C的10天路线。",
+    "summary": "操作系统C编程",
+    "targetUser": "OS与C",
+    "durationDays": 10,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-10天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-10天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-10天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-10天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-34",
+    "slug": "网络编程C基础",
+    "title": "网络编程C基础",
+    "description": "网络编程C基础：针对网络编程的7天路线。",
+    "summary": "网络编程C基础",
+    "targetUser": "网络编程",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  },
+  {
+    "id": "c-route-35",
+    "slug": "C语言大总结",
+    "title": "C语言大总结",
+    "description": "C语言大总结：针对全面回顾的5天路线。",
+    "summary": "C语言大总结",
+    "targetUser": "全面回顾",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习C 语言入门与开发环境",
+        "courseId": "c-course-01",
+        "lessonId": "c-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习C 程序结构与基本语法",
+        "courseId": "c-course-02",
+        "lessonId": "c-lesson-006"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习数据类型、变量与常量",
+        "courseId": "c-course-03",
+        "lessonId": "c-lesson-012"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习运算符与表达式",
+        "courseId": "c-course-04",
+        "lessonId": "c-lesson-020"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习输入输出与格式控制",
+        "courseId": "c-course-05",
+        "lessonId": "c-lesson-028"
+      }
+    ],
+    "recommendedCourseIds": [
+      "c-course-01",
+      "c-course-02",
+      "c-course-03",
+      "c-course-04",
+      "c-course-05"
+    ],
+    "recommendedLessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005",
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握C语法",
+      "能编写正确程序",
+      "理解指针与内存",
+      "具备调试能力"
+    ]
+  }
+]

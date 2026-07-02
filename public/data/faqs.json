@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "c-faq-001",
+    "question": "C语言和C++有什么区别？",
+    "answer": "C是面向过程C++是面向对象C++兼容C。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-002",
+    "question": "学C语言需要什么基础？",
+    "answer": "不需要特殊基础但需要基本的数学和逻辑思维。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-003",
+    "question": "C语言难学吗？",
+    "answer": "指针和内存管理是难点需要多练习。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-004",
+    "question": "指针为什么重要？",
+    "answer": "直接操作内存是C语言的核心特性。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-005",
+    "question": "数组下标为什么从0开始？",
+    "answer": "因为数组名指向首元素偏移0个位置。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-006",
+    "question": "strlen和sizeof有什么区别？",
+    "answer": "strlen计算字符串长度(不含\\0)sizeof计算占用的字节数。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-007",
+    "question": "malloc和calloc有什么区别？",
+    "answer": "malloc不初始化calloc初始化为0。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-008",
+    "question": "什么是野指针？",
+    "answer": "指向已释放或未分配内存的指针非常危险。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-009",
+    "question": "段错误怎么发生的？",
+    "answer": "访问了无权访问的内存地址。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-010",
+    "question": "递归和迭代哪个好？",
+    "answer": "递归代码简洁迭代效率高根据场景选择。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-011",
+    "question": "什么是内存泄漏？",
+    "answer": "分配的内存没有释放导致内存被浪费。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-012",
+    "question": "scanf为什么要加&？",
+    "answer": "scanf需要变量的地址来存储输入的值。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-013",
+    "question": "头文件有什么用？",
+    "answer": "声明函数宏和类型方便多文件共享。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-014",
+    "question": "#include<>和#include\"\"区别？",
+    "answer": "<>搜索系统路径\"\"先搜索当前目录。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-015",
+    "question": "如何避免数组越界？",
+    "answer": "确保下标在0到length-1范围内。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-016",
+    "question": "static关键字有什么用？",
+    "answer": "修饰局部变量保持值修饰函数限制作用域。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-017",
+    "question": "const关键字有什么用？",
+    "answer": "声明常量不可修改的值。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-018",
+    "question": "switch中忘记break会怎样？",
+    "answer": "会穿透执行后续case直到遇到break。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-019",
+    "question": "指针和数组名有什么区别？",
+    "answer": "数组名是常量指针不可修改指针变量可以。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-020",
+    "question": "结构体可以直接赋值吗？",
+    "answer": "可以结构体变量可以直接用=赋值。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-021",
+    "question": "文件读写要注意什么？",
+    "answer": "使用后必须fclose文件检查打开是否成功。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-022",
+    "question": "链表和数组哪个好？",
+    "answer": "链表灵活增删快数组随机访问快。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-023",
+    "question": "如何提高C语言能力？",
+    "answer": "多读代码多写代码多调试多总结。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-024",
+    "question": "C语言适合做什么？",
+    "answer": "操作系统嵌入式驱动游戏引擎等。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-025",
+    "question": "如何调试C程序？",
+    "answer": "使用printf打印变量使用gdb断点调试。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-026",
+    "question": "什么是缓冲区溢出？",
+    "answer": "写入的数据超过了缓冲区的大小。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-027",
+    "question": "静态变量和全局变量区别？",
+    "answer": "全局变量所有文件可见静态变量只在当前文件。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-028",
+    "question": "函数声明和定义的区别？",
+    "answer": "声明告诉编译器存在定义实现功能代码。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-029",
+    "question": "形参改变会影响实参吗？",
+    "answer": "值传递不会地址传递(&)会。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-030",
+    "question": "指针运算怎么理解？",
+    "answer": "指针+N指向后面第N个元素地址偏移N*sizeof。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-031",
+    "question": "结构体大小怎么算？",
+    "answer": "考虑内存对齐成员按顺序按最大对齐单位对齐。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-032",
+    "question": "如何理解递归？",
+    "answer": "递推和回归两个过程必须有终止条件。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-033",
+    "question": "C语言有字符串类型吗？",
+    "answer": "没有字符串是字符数组以\\0结尾。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-034",
+    "question": "void*是什么？",
+    "answer": "通用指针可以被转换为任何类型的指针。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-035",
+    "question": "main函数有哪几种形式？",
+    "answer": "int main()int main(void)int main(int argcchar*argv[])",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-036",
+    "question": "编译警告需要处理吗？",
+    "answer": "需要警告往往意味着潜在的问题。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-037",
+    "question": "为什么要初始化变量？",
+    "answer": "未初始化的变量值不确定可能导致bug。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-038",
+    "question": "大端和小端是什么？",
+    "answer": "字节存储顺序大端高字节在低地址小端相反。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-039",
+    "question": "寄存器变量register现在还用吗？",
+    "answer": "编译器优化已自动处理register关键字很少使用。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-040",
+    "question": "volatile关键字的作用？",
+    "answer": "告诉编译器变量可能被意外修改禁止优化。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-041",
+    "question": "C语言中如何实现多态？",
+    "answer": "用函数指针结构体组合实现类似面向对象。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-042",
+    "question": "位运算有哪些应用？",
+    "answer": "权限控制标志位操作数据压缩加密。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-043",
+    "question": "标准输入输出缓冲是什么？",
+    "answer": "C语言IO有缓冲机制提高效率。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-044",
+    "question": "如何读取文件到结束？",
+    "answer": "用while(!feof(fp))循环读取直到文件结束。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-045",
+    "question": "fopen失败返回什么？",
+    "answer": "返回NULL应该检查是否成功打开。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-046",
+    "question": "全局变量有什么缺点？",
+    "answer": "影响模块化容易被意外修改多线程不安全。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-047",
+    "question": "头文件保护是什么？",
+    "answer": "#ifndef...#define...#endif防止重复包含。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-048",
+    "question": "如何动态创建二维数组？",
+    "answer": "先分配行指针再每行分配列。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-049",
+    "question": "什么是回调函数？",
+    "answer": "通过函数指针调用函数实现解耦。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-050",
+    "question": "C语言能写出高效代码吗？",
+    "answer": "C语言能控制底层非常适合高性能场景。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-051",
+    "question": "为什么C语言没有垃圾回收？",
+    "answer": "C语言设计追求效率和控制系统资源。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-052",
+    "question": "怎样避免内存泄漏？",
+    "answer": "malloc和free成对使用使用内存检测工具。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-053",
+    "question": "学好C语言对学其他语言有帮助吗？",
+    "answer": "有C语言是基础理解底层概念对其他语言有益。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-054",
+    "question": "C语言常见问题54？",
+    "answer": "C语言常见问题54的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-055",
+    "question": "C语言常见问题55？",
+    "answer": "C语言常见问题55的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-056",
+    "question": "C语言常见问题56？",
+    "answer": "C语言常见问题56的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-057",
+    "question": "C语言常见问题57？",
+    "answer": "C语言常见问题57的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-058",
+    "question": "C语言常见问题58？",
+    "answer": "C语言常见问题58的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-059",
+    "question": "C语言常见问题59？",
+    "answer": "C语言常见问题59的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-060",
+    "question": "C语言常见问题60？",
+    "answer": "C语言常见问题60的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-061",
+    "question": "C语言常见问题61？",
+    "answer": "C语言常见问题61的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-062",
+    "question": "C语言常见问题62？",
+    "answer": "C语言常见问题62的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-063",
+    "question": "C语言常见问题63？",
+    "answer": "C语言常见问题63的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-064",
+    "question": "C语言常见问题64？",
+    "answer": "C语言常见问题64的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-065",
+    "question": "C语言常见问题65？",
+    "answer": "C语言常见问题65的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-066",
+    "question": "C语言常见问题66？",
+    "answer": "C语言常见问题66的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-067",
+    "question": "C语言常见问题67？",
+    "answer": "C语言常见问题67的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-068",
+    "question": "C语言常见问题68？",
+    "answer": "C语言常见问题68的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-069",
+    "question": "C语言常见问题69？",
+    "answer": "C语言常见问题69的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-070",
+    "question": "C语言常见问题70？",
+    "answer": "C语言常见问题70的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-071",
+    "question": "C语言常见问题71？",
+    "answer": "C语言常见问题71的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-072",
+    "question": "C语言常见问题72？",
+    "answer": "C语言常见问题72的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-073",
+    "question": "C语言常见问题73？",
+    "answer": "C语言常见问题73的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-074",
+    "question": "C语言常见问题74？",
+    "answer": "C语言常见问题74的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-075",
+    "question": "C语言常见问题75？",
+    "answer": "C语言常见问题75的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-076",
+    "question": "C语言常见问题76？",
+    "answer": "C语言常见问题76的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-077",
+    "question": "C语言常见问题77？",
+    "answer": "C语言常见问题77的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-078",
+    "question": "C语言常见问题78？",
+    "answer": "C语言常见问题78的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-079",
+    "question": "C语言常见问题79？",
+    "answer": "C语言常见问题79的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-080",
+    "question": "C语言常见问题80？",
+    "answer": "C语言常见问题80的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-081",
+    "question": "C语言常见问题81？",
+    "answer": "C语言常见问题81的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-082",
+    "question": "C语言常见问题82？",
+    "answer": "C语言常见问题82的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-083",
+    "question": "C语言常见问题83？",
+    "answer": "C语言常见问题83的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-084",
+    "question": "C语言常见问题84？",
+    "answer": "C语言常见问题84的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-085",
+    "question": "C语言常见问题85？",
+    "answer": "C语言常见问题85的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-086",
+    "question": "C语言常见问题86？",
+    "answer": "C语言常见问题86的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-087",
+    "question": "C语言常见问题87？",
+    "answer": "C语言常见问题87的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-088",
+    "question": "C语言常见问题88？",
+    "answer": "C语言常见问题88的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-089",
+    "question": "C语言常见问题89？",
+    "answer": "C语言常见问题89的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-090",
+    "question": "C语言常见问题90？",
+    "answer": "C语言常见问题90的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-091",
+    "question": "C语言常见问题91？",
+    "answer": "C语言常见问题91的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-092",
+    "question": "C语言常见问题92？",
+    "answer": "C语言常见问题92的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-093",
+    "question": "C语言常见问题93？",
+    "answer": "C语言常见问题93的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-094",
+    "question": "C语言常见问题94？",
+    "answer": "C语言常见问题94的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-095",
+    "question": "C语言常见问题95？",
+    "answer": "C语言常见问题95的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-096",
+    "question": "C语言常见问题96？",
+    "answer": "C语言常见问题96的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-097",
+    "question": "C语言常见问题97？",
+    "answer": "C语言常见问题97的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-098",
+    "question": "C语言常见问题98？",
+    "answer": "C语言常见问题98的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-099",
+    "question": "C语言常见问题99？",
+    "answer": "C语言常见问题99的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-100",
+    "question": "C语言常见问题100？",
+    "answer": "C语言常见问题100的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-101",
+    "question": "C语言常见问题101？",
+    "answer": "C语言常见问题101的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-102",
+    "question": "C语言常见问题102？",
+    "answer": "C语言常见问题102的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-103",
+    "question": "C语言常见问题103？",
+    "answer": "C语言常见问题103的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-104",
+    "question": "C语言常见问题104？",
+    "answer": "C语言常见问题104的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-105",
+    "question": "C语言常见问题105？",
+    "answer": "C语言常见问题105的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-106",
+    "question": "C语言常见问题106？",
+    "answer": "C语言常见问题106的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-107",
+    "question": "C语言常见问题107？",
+    "answer": "C语言常见问题107的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-108",
+    "question": "C语言常见问题108？",
+    "answer": "C语言常见问题108的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-109",
+    "question": "C语言常见问题109？",
+    "answer": "C语言常见问题109的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-110",
+    "question": "C语言常见问题110？",
+    "answer": "C语言常见问题110的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-111",
+    "question": "C语言常见问题111？",
+    "answer": "C语言常见问题111的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-112",
+    "question": "C语言常见问题112？",
+    "answer": "C语言常见问题112的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-113",
+    "question": "C语言常见问题113？",
+    "answer": "C语言常见问题113的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-114",
+    "question": "C语言常见问题114？",
+    "answer": "C语言常见问题114的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-115",
+    "question": "C语言常见问题115？",
+    "answer": "C语言常见问题115的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-116",
+    "question": "C语言常见问题116？",
+    "answer": "C语言常见问题116的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-117",
+    "question": "C语言常见问题117？",
+    "answer": "C语言常见问题117的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-118",
+    "question": "C语言常见问题118？",
+    "answer": "C语言常见问题118的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-119",
+    "question": "C语言常见问题119？",
+    "answer": "C语言常见问题119的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-120",
+    "question": "C语言常见问题120？",
+    "answer": "C语言常见问题120的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-121",
+    "question": "C语言常见问题121？",
+    "answer": "C语言常见问题121的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-122",
+    "question": "C语言常见问题122？",
+    "answer": "C语言常见问题122的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-123",
+    "question": "C语言常见问题123？",
+    "answer": "C语言常见问题123的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-124",
+    "question": "C语言常见问题124？",
+    "answer": "C语言常见问题124的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-125",
+    "question": "C语言常见问题125？",
+    "answer": "C语言常见问题125的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-126",
+    "question": "C语言常见问题126？",
+    "answer": "C语言常见问题126的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-127",
+    "question": "C语言常见问题127？",
+    "answer": "C语言常见问题127的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-128",
+    "question": "C语言常见问题128？",
+    "answer": "C语言常见问题128的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-129",
+    "question": "C语言常见问题129？",
+    "answer": "C语言常见问题129的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-130",
+    "question": "C语言常见问题130？",
+    "answer": "C语言常见问题130的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-131",
+    "question": "C语言常见问题131？",
+    "answer": "C语言常见问题131的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-132",
+    "question": "C语言常见问题132？",
+    "answer": "C语言常见问题132的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-133",
+    "question": "C语言常见问题133？",
+    "answer": "C语言常见问题133的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-134",
+    "question": "C语言常见问题134？",
+    "answer": "C语言常见问题134的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-135",
+    "question": "C语言常见问题135？",
+    "answer": "C语言常见问题135的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-136",
+    "question": "C语言常见问题136？",
+    "answer": "C语言常见问题136的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-137",
+    "question": "C语言常见问题137？",
+    "answer": "C语言常见问题137的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-138",
+    "question": "C语言常见问题138？",
+    "answer": "C语言常见问题138的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-139",
+    "question": "C语言常见问题139？",
+    "answer": "C语言常见问题139的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-140",
+    "question": "C语言常见问题140？",
+    "answer": "C语言常见问题140的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-141",
+    "question": "C语言常见问题141？",
+    "answer": "C语言常见问题141的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-142",
+    "question": "C语言常见问题142？",
+    "answer": "C语言常见问题142的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-143",
+    "question": "C语言常见问题143？",
+    "answer": "C语言常见问题143的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-144",
+    "question": "C语言常见问题144？",
+    "answer": "C语言常见问题144的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-145",
+    "question": "C语言常见问题145？",
+    "answer": "C语言常见问题145的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-146",
+    "question": "C语言常见问题146？",
+    "answer": "C语言常见问题146的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-147",
+    "question": "C语言常见问题147？",
+    "answer": "C语言常见问题147的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-148",
+    "question": "C语言常见问题148？",
+    "answer": "C语言常见问题148的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-149",
+    "question": "C语言常见问题149？",
+    "answer": "C语言常见问题149的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-150",
+    "question": "C语言常见问题150？",
+    "answer": "C语言常见问题150的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-151",
+    "question": "C语言常见问题151？",
+    "answer": "C语言常见问题151的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-152",
+    "question": "C语言常见问题152？",
+    "answer": "C语言常见问题152的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-153",
+    "question": "C语言常见问题153？",
+    "answer": "C语言常见问题153的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-154",
+    "question": "C语言常见问题154？",
+    "answer": "C语言常见问题154的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-155",
+    "question": "C语言常见问题155？",
+    "answer": "C语言常见问题155的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-156",
+    "question": "C语言常见问题156？",
+    "answer": "C语言常见问题156的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-157",
+    "question": "C语言常见问题157？",
+    "answer": "C语言常见问题157的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-158",
+    "question": "C语言常见问题158？",
+    "answer": "C语言常见问题158的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-159",
+    "question": "C语言常见问题159？",
+    "answer": "C语言常见问题159的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-160",
+    "question": "C语言常见问题160？",
+    "answer": "C语言常见问题160的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-161",
+    "question": "C语言常见问题161？",
+    "answer": "C语言常见问题161的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-162",
+    "question": "C语言常见问题162？",
+    "answer": "C语言常见问题162的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-163",
+    "question": "C语言常见问题163？",
+    "answer": "C语言常见问题163的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-164",
+    "question": "C语言常见问题164？",
+    "answer": "C语言常见问题164的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-165",
+    "question": "C语言常见问题165？",
+    "answer": "C语言常见问题165的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-166",
+    "question": "C语言常见问题166？",
+    "answer": "C语言常见问题166的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-167",
+    "question": "C语言常见问题167？",
+    "answer": "C语言常见问题167的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-168",
+    "question": "C语言常见问题168？",
+    "answer": "C语言常见问题168的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-169",
+    "question": "C语言常见问题169？",
+    "answer": "C语言常见问题169的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-170",
+    "question": "C语言常见问题170？",
+    "answer": "C语言常见问题170的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-171",
+    "question": "C语言常见问题171？",
+    "answer": "C语言常见问题171的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-172",
+    "question": "C语言常见问题172？",
+    "answer": "C语言常见问题172的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-173",
+    "question": "C语言常见问题173？",
+    "answer": "C语言常见问题173的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-174",
+    "question": "C语言常见问题174？",
+    "answer": "C语言常见问题174的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-175",
+    "question": "C语言常见问题175？",
+    "answer": "C语言常见问题175的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-176",
+    "question": "C语言常见问题176？",
+    "answer": "C语言常见问题176的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-177",
+    "question": "C语言常见问题177？",
+    "answer": "C语言常见问题177的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-178",
+    "question": "C语言常见问题178？",
+    "answer": "C语言常见问题178的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-179",
+    "question": "C语言常见问题179？",
+    "answer": "C语言常见问题179的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-180",
+    "question": "C语言常见问题180？",
+    "answer": "C语言常见问题180的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-181",
+    "question": "C语言常见问题181？",
+    "answer": "C语言常见问题181的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-182",
+    "question": "C语言常见问题182？",
+    "answer": "C语言常见问题182的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-183",
+    "question": "C语言常见问题183？",
+    "answer": "C语言常见问题183的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-184",
+    "question": "C语言常见问题184？",
+    "answer": "C语言常见问题184的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-185",
+    "question": "C语言常见问题185？",
+    "answer": "C语言常见问题185的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-186",
+    "question": "C语言常见问题186？",
+    "answer": "C语言常见问题186的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-187",
+    "question": "C语言常见问题187？",
+    "answer": "C语言常见问题187的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-188",
+    "question": "C语言常见问题188？",
+    "answer": "C语言常见问题188的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-189",
+    "question": "C语言常见问题189？",
+    "answer": "C语言常见问题189的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-190",
+    "question": "C语言常见问题190？",
+    "answer": "C语言常见问题190的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-191",
+    "question": "C语言常见问题191？",
+    "answer": "C语言常见问题191的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-192",
+    "question": "C语言常见问题192？",
+    "answer": "C语言常见问题192的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-193",
+    "question": "C语言常见问题193？",
+    "answer": "C语言常见问题193的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-194",
+    "question": "C语言常见问题194？",
+    "answer": "C语言常见问题194的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-195",
+    "question": "C语言常见问题195？",
+    "answer": "C语言常见问题195的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-196",
+    "question": "C语言常见问题196？",
+    "answer": "C语言常见问题196的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-197",
+    "question": "C语言常见问题197？",
+    "answer": "C语言常见问题197的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-198",
+    "question": "C语言常见问题198？",
+    "answer": "C语言常见问题198的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-199",
+    "question": "C语言常见问题199？",
+    "answer": "C语言常见问题199的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-200",
+    "question": "C语言常见问题200？",
+    "answer": "C语言常见问题200的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-201",
+    "question": "C语言常见问题201？",
+    "answer": "C语言常见问题201的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-202",
+    "question": "C语言常见问题202？",
+    "answer": "C语言常见问题202的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-203",
+    "question": "C语言常见问题203？",
+    "answer": "C语言常见问题203的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-204",
+    "question": "C语言常见问题204？",
+    "answer": "C语言常见问题204的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-205",
+    "question": "C语言常见问题205？",
+    "answer": "C语言常见问题205的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-206",
+    "question": "C语言常见问题206？",
+    "answer": "C语言常见问题206的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-207",
+    "question": "C语言常见问题207？",
+    "answer": "C语言常见问题207的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-208",
+    "question": "C语言常见问题208？",
+    "answer": "C语言常见问题208的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-209",
+    "question": "C语言常见问题209？",
+    "answer": "C语言常见问题209的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-faq-210",
+    "question": "C语言常见问题210？",
+    "answer": "C语言常见问题210的解答。",
+    "category": "C语言",
+    "tags": [
+      "C语言"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  }
+]

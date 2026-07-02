@@ -1,0 +1,453 @@
+[
+  {
+    "id": "c-course-01",
+    "order": 1,
+    "slug": "C语言入门与开发环境",
+    "title": "C 语言入门与开发环境",
+    "description": "C语言概述、开发环境搭建、第一个程序Hello World、编译运行流程。",
+    "estimatedHours": 6,
+    "difficulty": "easy",
+    "tags": [
+      "C 语言入门与开发环境"
+    ],
+    "lessonIds": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005"
+    ],
+    "totalLessons": 5,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握C语言语法",
+      "能编写正确代码",
+      "理解指针与内存",
+      "具备调试能力"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-course-02",
+    "order": 2,
+    "slug": "C程序结构与基本语法",
+    "title": "C 程序结构与基本语法",
+    "description": "程序基本结构、main函数、头文件、注释、语句与代码块。",
+    "estimatedHours": 6,
+    "difficulty": "easy",
+    "tags": [
+      "C 程序结构与基本语法"
+    ],
+    "lessonIds": [
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010",
+      "c-lesson-011"
+    ],
+    "totalLessons": 6,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握C语言语法",
+      "能编写正确代码",
+      "理解指针与内存",
+      "具备调试能力"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-course-03",
+    "order": 3,
+    "slug": "数据类型变量与常量",
+    "title": "数据类型、变量与常量",
+    "description": "基本数据类型、变量定义与初始化、常量、类型转换。",
+    "estimatedHours": 8,
+    "difficulty": "easy",
+    "tags": [
+      "数据类型、变量与常量"
+    ],
+    "lessonIds": [
+      "c-lesson-012",
+      "c-lesson-013",
+      "c-lesson-014",
+      "c-lesson-015",
+      "c-lesson-016",
+      "c-lesson-017",
+      "c-lesson-018",
+      "c-lesson-019"
+    ],
+    "totalLessons": 8,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握C语言语法",
+      "能编写正确代码",
+      "理解指针与内存",
+      "具备调试能力"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-course-04",
+    "order": 4,
+    "slug": "运算符与表达式",
+    "title": "运算符与表达式",
+    "description": "各类运算符、优先级与结合性、表达式的求值。",
+    "estimatedHours": 10,
+    "difficulty": "easy",
+    "tags": [
+      "运算符与表达式"
+    ],
+    "lessonIds": [
+      "c-lesson-020",
+      "c-lesson-021",
+      "c-lesson-022",
+      "c-lesson-023",
+      "c-lesson-024",
+      "c-lesson-025",
+      "c-lesson-026",
+      "c-lesson-027"
+    ],
+    "totalLessons": 8,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握C语言语法",
+      "能编写正确代码",
+      "理解指针与内存",
+      "具备调试能力"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-course-05",
+    "order": 5,
+    "slug": "输入输出与格式控制",
+    "title": "输入输出与格式控制",
+    "description": "printf和scanf格式化输入输出、字符输入输出、文件重定向。",
+    "estimatedHours": 8,
+    "difficulty": "easy",
+    "tags": [
+      "输入输出与格式控制"
+    ],
+    "lessonIds": [
+      "c-lesson-028",
+      "c-lesson-029",
+      "c-lesson-030",
+      "c-lesson-031",
+      "c-lesson-032"
+    ],
+    "totalLessons": 5,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握C语言语法",
+      "能编写正确代码",
+      "理解指针与内存",
+      "具备调试能力"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-course-06",
+    "order": 6,
+    "slug": "顺序结构选择结构与循环结构",
+    "title": "顺序结构、选择结构与循环结构",
+    "description": "if/switch选择结构、while/do-while/for循环、break/continue控制。",
+    "estimatedHours": 12,
+    "difficulty": "easy",
+    "tags": [
+      "顺序结构、选择结构与循环结构"
+    ],
+    "lessonIds": [
+      "c-lesson-033",
+      "c-lesson-034",
+      "c-lesson-035",
+      "c-lesson-036",
+      "c-lesson-037",
+      "c-lesson-038",
+      "c-lesson-039",
+      "c-lesson-040",
+      "c-lesson-041"
+    ],
+    "totalLessons": 9,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握C语言语法",
+      "能编写正确代码",
+      "理解指针与内存",
+      "具备调试能力"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-course-07",
+    "order": 7,
+    "slug": "数组与字符串",
+    "title": "数组与字符串",
+    "description": "一维数组、二维数组、字符数组、字符串处理函数、数组应用。",
+    "estimatedHours": 14,
+    "difficulty": "medium",
+    "tags": [
+      "数组与字符串"
+    ],
+    "lessonIds": [
+      "c-lesson-042",
+      "c-lesson-043",
+      "c-lesson-044",
+      "c-lesson-045",
+      "c-lesson-046",
+      "c-lesson-047",
+      "c-lesson-048",
+      "c-lesson-049",
+      "c-lesson-050",
+      "c-lesson-051",
+      "c-lesson-052",
+      "c-lesson-053"
+    ],
+    "totalLessons": 12,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握C语言语法",
+      "能编写正确代码",
+      "理解指针与内存",
+      "具备调试能力"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-course-08",
+    "order": 8,
+    "slug": "函数参数与作用域",
+    "title": "函数、参数与作用域",
+    "description": "函数定义与声明、参数传递、返回值、作用域、递归。",
+    "estimatedHours": 14,
+    "difficulty": "medium",
+    "tags": [
+      "函数、参数与作用域"
+    ],
+    "lessonIds": [
+      "c-lesson-054",
+      "c-lesson-055",
+      "c-lesson-056",
+      "c-lesson-057",
+      "c-lesson-058",
+      "c-lesson-059",
+      "c-lesson-060",
+      "c-lesson-061",
+      "c-lesson-062"
+    ],
+    "totalLessons": 9,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握C语言语法",
+      "能编写正确代码",
+      "理解指针与内存",
+      "具备调试能力"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-course-09",
+    "order": 9,
+    "slug": "指针基础",
+    "title": "指针基础",
+    "description": "指针概念、地址运算符、解引用、指针与数组、指针运算。",
+    "estimatedHours": 14,
+    "difficulty": "hard",
+    "tags": [
+      "指针基础"
+    ],
+    "lessonIds": [
+      "c-lesson-063",
+      "c-lesson-064",
+      "c-lesson-065",
+      "c-lesson-066",
+      "c-lesson-067",
+      "c-lesson-068",
+      "c-lesson-069",
+      "c-lesson-070"
+    ],
+    "totalLessons": 8,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握C语言语法",
+      "能编写正确代码",
+      "理解指针与内存",
+      "具备调试能力"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-course-10",
+    "order": 10,
+    "slug": "指针数组与字符串进阶",
+    "title": "指针、数组与字符串进阶",
+    "description": "指针与字符串、指针数组、数组指针、函数指针、动态内存分配。",
+    "estimatedHours": 14,
+    "difficulty": "hard",
+    "tags": [
+      "指针、数组与字符串进阶"
+    ],
+    "lessonIds": [
+      "c-lesson-071",
+      "c-lesson-072",
+      "c-lesson-073",
+      "c-lesson-074",
+      "c-lesson-075",
+      "c-lesson-076",
+      "c-lesson-077",
+      "c-lesson-078"
+    ],
+    "totalLessons": 8,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握C语言语法",
+      "能编写正确代码",
+      "理解指针与内存",
+      "具备调试能力"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-course-11",
+    "order": 11,
+    "slug": "结构体共用体与枚举",
+    "title": "结构体、共用体与枚举",
+    "description": "结构体定义与使用、结构体数组与指针、共用体、枚举、typedef。",
+    "estimatedHours": 12,
+    "difficulty": "medium",
+    "tags": [
+      "结构体、共用体与枚举"
+    ],
+    "lessonIds": [
+      "c-lesson-079",
+      "c-lesson-080",
+      "c-lesson-081",
+      "c-lesson-082",
+      "c-lesson-083",
+      "c-lesson-084",
+      "c-lesson-085",
+      "c-lesson-086",
+      "c-lesson-087",
+      "c-lesson-088",
+      "c-lesson-089"
+    ],
+    "totalLessons": 11,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握C语言语法",
+      "能编写正确代码",
+      "理解指针与内存",
+      "具备调试能力"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-course-12",
+    "order": 12,
+    "slug": "文件操作",
+    "title": "文件操作",
+    "description": "文件打开与关闭、文件读写、文件定位、二进制文件、文件应用。",
+    "estimatedHours": 10,
+    "difficulty": "medium",
+    "tags": [
+      "文件操作"
+    ],
+    "lessonIds": [
+      "c-lesson-090",
+      "c-lesson-091",
+      "c-lesson-092",
+      "c-lesson-093",
+      "c-lesson-094",
+      "c-lesson-095",
+      "c-lesson-096",
+      "c-lesson-097",
+      "c-lesson-098",
+      "c-lesson-099"
+    ],
+    "totalLessons": 10,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握C语言语法",
+      "能编写正确代码",
+      "理解指针与内存",
+      "具备调试能力"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-course-13",
+    "order": 13,
+    "slug": "编程题训练与调试方法",
+    "title": "编程题训练与调试方法",
+    "description": "常见编程题型、代码调试方法、gdb使用、常见错误与处理方法。",
+    "estimatedHours": 12,
+    "difficulty": "hard",
+    "tags": [
+      "编程题训练与调试方法"
+    ],
+    "lessonIds": [
+      "c-lesson-100",
+      "c-lesson-101",
+      "c-lesson-102",
+      "c-lesson-103",
+      "c-lesson-104",
+      "c-lesson-105",
+      "c-lesson-106",
+      "c-lesson-107"
+    ],
+    "totalLessons": 8,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握C语言语法",
+      "能编写正确代码",
+      "理解指针与内存",
+      "具备调试能力"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "c-course-14",
+    "order": 14,
+    "slug": "C语言课程设计与综合项目",
+    "title": "C 语言课程设计与综合项目",
+    "description": "学生成绩管理系统、通讯录系统、图书管理系统、综合课程设计。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "C 语言课程设计与综合项目"
+    ],
+    "lessonIds": [
+      "c-lesson-108",
+      "c-lesson-109",
+      "c-lesson-110",
+      "c-lesson-111",
+      "c-lesson-112",
+      "c-lesson-113",
+      "c-lesson-114",
+      "c-lesson-115"
+    ],
+    "totalLessons": 8,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握C语言语法",
+      "能编写正确代码",
+      "理解指针与内存",
+      "具备调试能力"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  }
+]

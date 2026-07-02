@@ -1,0 +1,41 @@
+{
+  "id": "mod-c-programming",
+  "slug": "module-c-programming",
+  "title": "C 语言程序设计",
+  "subtitle": "面向C语言课程计算机基础嵌入式入门与程序设计考试",
+  "description": "面向大学C语言课程学习者计算机基础学习者嵌入式入门学生准备计算机考试者提供C语言语法程序结构控制语句数组函数指针结构体文件操作调试常见错误编程题和课程设计训练的静态学习模块。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "C语言",
+    "程序设计",
+    "数组",
+    "函数",
+    "指针",
+    "结构体",
+    "文件操作",
+    "编程题"
+  ],
+  "estimatedHours": 150,
+  "difficulty": "beginner",
+  "updatedAt": "2026-07-02T12:00:00.000Z",
+  "coverEmoji": "⚙",
+  "repoUrl": "https://github.com/openskill-galaxy/module-c-programming",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 115,
+    "knowledgePoints": 757,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 448
+  }
+}
