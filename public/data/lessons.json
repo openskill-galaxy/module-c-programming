@@ -19,7 +19,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# C语言的历史与特点\n\nC语言的历史与特点的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了C语言的历史与特点的核心知识。",
+    "knowledgePoints": [
+      "c-kp-001",
+      "c-kp-002"
+    ]
   },
   {
     "id": "c-lesson-002",
@@ -40,7 +45,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 搭建开发环境GCC\n\n搭建开发环境GCC的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了搭建开发环境GCC的核心知识。",
+    "knowledgePoints": [
+      "c-kp-003"
+    ]
   },
   {
     "id": "c-lesson-003",
@@ -61,7 +70,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 第一个C程序HelloWorld\n\n第一个C程序HelloWorld的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了第一个C程序HelloWorld的核心知识。",
+    "knowledgePoints": [
+      "c-kp-004"
+    ]
   },
   {
     "id": "c-lesson-004",
@@ -83,7 +96,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 编译与运行流程\n\n编译与运行流程的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了编译与运行流程的核心知识。",
+    "knowledgePoints": [
+      "c-kp-005",
+      "c-kp-006"
+    ]
   },
   {
     "id": "c-lesson-005",
@@ -104,7 +122,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 集成开发环境介绍\n\n集成开发环境介绍的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了集成开发环境介绍的核心知识。",
+    "knowledgePoints": [
+      "c-kp-007"
+    ]
   },
   {
     "id": "c-lesson-006",
@@ -126,7 +148,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# C程序的基本结构\n\nC程序的基本结构的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了C程序的基本结构的核心知识。",
+    "knowledgePoints": [
+      "c-kp-008",
+      "c-kp-009"
+    ]
   },
   {
     "id": "c-lesson-007",
@@ -147,7 +174,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# main函数详解\n\nmain函数详解的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了main函数详解的核心知识。",
+    "knowledgePoints": [
+      "c-kp-010"
+    ]
   },
   {
     "id": "c-lesson-008",
@@ -168,7 +199,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 头文件与#include\n\n头文件与#include的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了头文件与#include的核心知识。",
+    "knowledgePoints": [
+      "c-kp-011"
+    ]
   },
   {
     "id": "c-lesson-009",
@@ -189,7 +224,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 注释方法\n\n注释方法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了注释方法的核心知识。",
+    "knowledgePoints": [
+      "c-kp-012"
+    ]
   },
   {
     "id": "c-lesson-010",
@@ -210,7 +249,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 语句与代码块\n\n语句与代码块的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了语句与代码块的核心知识。",
+    "knowledgePoints": [
+      "c-kp-013"
+    ]
   },
   {
     "id": "c-lesson-011",
@@ -231,7 +274,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 标识符与关键字\n\n标识符与关键字的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了标识符与关键字的核心知识。",
+    "knowledgePoints": [
+      "c-kp-014"
+    ]
   },
   {
     "id": "c-lesson-012",
@@ -253,7 +300,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 整型int\n\n整型int的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了整型int的核心知识。",
+    "knowledgePoints": [
+      "c-kp-015",
+      "c-kp-016"
+    ]
   },
   {
     "id": "c-lesson-013",
@@ -275,7 +327,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 浮点型floatdouble\n\n浮点型floatdouble的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了浮点型floatdouble的核心知识。",
+    "knowledgePoints": [
+      "c-kp-017",
+      "c-kp-018"
+    ]
   },
   {
     "id": "c-lesson-014",
@@ -296,7 +353,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 字符型char\n\n字符型char的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了字符型char的核心知识。",
+    "knowledgePoints": [
+      "c-kp-019"
+    ]
   },
   {
     "id": "c-lesson-015",
@@ -317,7 +378,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# void类型\n\nvoid类型的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了void类型的核心知识。",
+    "knowledgePoints": [
+      "c-kp-020"
+    ]
   },
   {
     "id": "c-lesson-016",
@@ -339,7 +404,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 变量声明与初始化\n\n变量声明与初始化的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了变量声明与初始化的核心知识。",
+    "knowledgePoints": [
+      "c-kp-021",
+      "c-kp-022"
+    ]
   },
   {
     "id": "c-lesson-017",
@@ -361,7 +431,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 常量与字面量\n\n常量与字面量的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了常量与字面量的核心知识。",
+    "knowledgePoints": [
+      "c-kp-023",
+      "c-kp-024"
+    ]
   },
   {
     "id": "c-lesson-018",
@@ -383,7 +458,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 类型转换\n\n类型转换的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了类型转换的核心知识。",
+    "knowledgePoints": [
+      "c-kp-025",
+      "c-kp-026"
+    ]
   },
   {
     "id": "c-lesson-019",
@@ -404,7 +484,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 常量修饰符const\n\n常量修饰符const的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了常量修饰符const的核心知识。",
+    "knowledgePoints": [
+      "c-kp-027"
+    ]
   },
   {
     "id": "c-lesson-020",
@@ -432,7 +516,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 算术运算符\n\n算术运算符的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了算术运算符的核心知识。",
+    "knowledgePoints": [
+      "c-kp-028",
+      "c-kp-029"
+    ]
   },
   {
     "id": "c-lesson-021",
@@ -460,7 +549,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 关系运算符\n\n关系运算符的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了关系运算符的核心知识。",
+    "knowledgePoints": [
+      "c-kp-030",
+      "c-kp-031"
+    ]
   },
   {
     "id": "c-lesson-022",
@@ -488,7 +582,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 逻辑运算符\n\n逻辑运算符的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了逻辑运算符的核心知识。",
+    "knowledgePoints": [
+      "c-kp-032",
+      "c-kp-033"
+    ]
   },
   {
     "id": "c-lesson-023",
@@ -516,7 +615,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 位运算符\n\n位运算符的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了位运算符的核心知识。",
+    "knowledgePoints": [
+      "c-kp-034",
+      "c-kp-035"
+    ]
   },
   {
     "id": "c-lesson-024",
@@ -543,7 +647,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 赋值运算符\n\n赋值运算符的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了赋值运算符的核心知识。",
+    "knowledgePoints": [
+      "c-kp-036"
+    ]
   },
   {
     "id": "c-lesson-025",
@@ -571,7 +679,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 自增自减运算符\n\n自增自减运算符的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了自增自减运算符的核心知识。",
+    "knowledgePoints": [
+      "c-kp-037",
+      "c-kp-038"
+    ]
   },
   {
     "id": "c-lesson-026",
@@ -598,7 +711,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 条件运算符\n\n条件运算符的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了条件运算符的核心知识。",
+    "knowledgePoints": [
+      "c-kp-039"
+    ]
   },
   {
     "id": "c-lesson-027",
@@ -626,7 +743,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 运算符优先级与结合性\n\n运算符优先级与结合性的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了运算符优先级与结合性的核心知识。",
+    "knowledgePoints": [
+      "c-kp-040",
+      "c-kp-041"
+    ]
   },
   {
     "id": "c-lesson-028",
@@ -654,7 +776,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# printf格式化输出\n\nprintf格式化输出的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了printf格式化输出的核心知识。",
+    "knowledgePoints": [
+      "c-kp-042",
+      "c-kp-043"
+    ]
   },
   {
     "id": "c-lesson-029",
@@ -682,7 +809,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# scanf格式化输入\n\nscanf格式化输入的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了scanf格式化输入的核心知识。",
+    "knowledgePoints": [
+      "c-kp-044",
+      "c-kp-045"
+    ]
   },
   {
     "id": "c-lesson-030",
@@ -709,7 +841,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# getchar与putchar\n\ngetchar与putchar的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了getchar与putchar的核心知识。",
+    "knowledgePoints": [
+      "c-kp-046"
+    ]
   },
   {
     "id": "c-lesson-031",
@@ -736,7 +872,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# gets与puts\n\ngets与puts的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了gets与puts的核心知识。",
+    "knowledgePoints": [
+      "c-kp-047"
+    ]
   },
   {
     "id": "c-lesson-032",
@@ -763,7 +903,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 格式化控制符详解\n\n格式化控制符详解的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了格式化控制符详解的核心知识。",
+    "knowledgePoints": [
+      "c-kp-048"
+    ]
   },
   {
     "id": "c-lesson-033",
@@ -785,7 +929,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# if语句\n\nif语句的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了if语句的核心知识。",
+    "knowledgePoints": [
+      "c-kp-049",
+      "c-kp-050"
+    ]
   },
   {
     "id": "c-lesson-034",
@@ -806,7 +955,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# if-else语句\n\nif-else语句的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了if-else语句的核心知识。",
+    "knowledgePoints": [
+      "c-kp-051"
+    ]
   },
   {
     "id": "c-lesson-035",
@@ -828,7 +981,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# switch语句\n\nswitch语句的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了switch语句的核心知识。",
+    "knowledgePoints": [
+      "c-kp-052",
+      "c-kp-053"
+    ]
   },
   {
     "id": "c-lesson-036",
@@ -850,7 +1008,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# while循环\n\nwhile循环的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了while循环的核心知识。",
+    "knowledgePoints": [
+      "c-kp-054",
+      "c-kp-055"
+    ]
   },
   {
     "id": "c-lesson-037",
@@ -871,7 +1034,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# do-while循环\n\ndo-while循环的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了do-while循环的核心知识。",
+    "knowledgePoints": [
+      "c-kp-056"
+    ]
   },
   {
     "id": "c-lesson-038",
@@ -893,7 +1060,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# for循环\n\nfor循环的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了for循环的核心知识。",
+    "knowledgePoints": [
+      "c-kp-057",
+      "c-kp-058"
+    ]
   },
   {
     "id": "c-lesson-039",
@@ -914,7 +1086,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# break与continue\n\nbreak与continue的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了break与continue的核心知识。",
+    "knowledgePoints": [
+      "c-kp-059"
+    ]
   },
   {
     "id": "c-lesson-040",
@@ -935,7 +1111,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 循环嵌套\n\n循环嵌套的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了循环嵌套的核心知识。",
+    "knowledgePoints": [
+      "c-kp-060"
+    ]
   },
   {
     "id": "c-lesson-041",
@@ -956,7 +1136,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# goto语句\n\ngoto语句的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了goto语句的核心知识。",
+    "knowledgePoints": [
+      "c-kp-061"
+    ]
   },
   {
     "id": "c-lesson-042",
@@ -984,7 +1168,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 一维数组定义与初始化\n\n一维数组定义与初始化的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了一维数组定义与初始化的核心知识。",
+    "knowledgePoints": [
+      "c-kp-062",
+      "c-kp-063"
+    ]
   },
   {
     "id": "c-lesson-043",
@@ -1011,7 +1200,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 数组遍历与下标\n\n数组遍历与下标的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了数组遍历与下标的核心知识。",
+    "knowledgePoints": [
+      "c-kp-064"
+    ]
   },
   {
     "id": "c-lesson-044",
@@ -1039,7 +1232,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 二维数组\n\n二维数组的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了二维数组的核心知识。",
+    "knowledgePoints": [
+      "c-kp-065",
+      "c-kp-066"
+    ]
   },
   {
     "id": "c-lesson-045",
@@ -1066,7 +1264,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 字符数组\n\n字符数组的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了字符数组的核心知识。",
+    "knowledgePoints": [
+      "c-kp-067"
+    ]
   },
   {
     "id": "c-lesson-046",
@@ -1094,7 +1296,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 字符串概念\n\n字符串概念的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了字符串概念的核心知识。",
+    "knowledgePoints": [
+      "c-kp-068",
+      "c-kp-069"
+    ]
   },
   {
     "id": "c-lesson-047",
@@ -1121,7 +1328,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# strlen与sizeof\n\nstrlen与sizeof的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了strlen与sizeof的核心知识。",
+    "knowledgePoints": [
+      "c-kp-070"
+    ]
   },
   {
     "id": "c-lesson-048",
@@ -1148,7 +1359,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 字符串复制strcpy\n\n字符串复制strcpy的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了字符串复制strcpy的核心知识。",
+    "knowledgePoints": [
+      "c-kp-071"
+    ]
   },
   {
     "id": "c-lesson-049",
@@ -1175,7 +1390,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 字符串拼接strcat\n\n字符串拼接strcat的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了字符串拼接strcat的核心知识。",
+    "knowledgePoints": [
+      "c-kp-072"
+    ]
   },
   {
     "id": "c-lesson-050",
@@ -1202,7 +1421,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 字符串比较strcmp\n\n字符串比较strcmp的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了字符串比较strcmp的核心知识。",
+    "knowledgePoints": [
+      "c-kp-073"
+    ]
   },
   {
     "id": "c-lesson-051",
@@ -1229,7 +1452,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 字符串查找strstr\n\n字符串查找strstr的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了字符串查找strstr的核心知识。",
+    "knowledgePoints": [
+      "c-kp-074"
+    ]
   },
   {
     "id": "c-lesson-052",
@@ -1256,7 +1483,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 冒泡排序算法\n\n冒泡排序算法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了冒泡排序算法的核心知识。",
+    "knowledgePoints": [
+      "c-kp-075"
+    ]
   },
   {
     "id": "c-lesson-053",
@@ -1283,7 +1514,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 选择排序算法\n\n选择排序算法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了选择排序算法的核心知识。",
+    "knowledgePoints": [
+      "c-kp-076"
+    ]
   },
   {
     "id": "c-lesson-054",
@@ -1305,7 +1540,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 函数定义与声明\n\n函数定义与声明的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了函数定义与声明的核心知识。",
+    "knowledgePoints": [
+      "c-kp-077",
+      "c-kp-078"
+    ]
   },
   {
     "id": "c-lesson-055",
@@ -1326,7 +1566,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 函数调用\n\n函数调用的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了函数调用的核心知识。",
+    "knowledgePoints": [
+      "c-kp-079"
+    ]
   },
   {
     "id": "c-lesson-056",
@@ -1348,7 +1592,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 形参与实参\n\n形参与实参的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了形参与实参的核心知识。",
+    "knowledgePoints": [
+      "c-kp-080",
+      "c-kp-081"
+    ]
   },
   {
     "id": "c-lesson-057",
@@ -1369,7 +1618,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# return返回值\n\nreturn返回值的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了return返回值的核心知识。",
+    "knowledgePoints": [
+      "c-kp-082"
+    ]
   },
   {
     "id": "c-lesson-058",
@@ -1390,7 +1643,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 值传递与地址传递\n\n值传递与地址传递的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了值传递与地址传递的核心知识。",
+    "knowledgePoints": [
+      "c-kp-083"
+    ]
   },
   {
     "id": "c-lesson-059",
@@ -1412,7 +1669,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 局部变量与全局变量\n\n局部变量与全局变量的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了局部变量与全局变量的核心知识。",
+    "knowledgePoints": [
+      "c-kp-084",
+      "c-kp-085"
+    ]
   },
   {
     "id": "c-lesson-060",
@@ -1433,7 +1695,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 静态变量static\n\n静态变量static的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了静态变量static的核心知识。",
+    "knowledgePoints": [
+      "c-kp-086"
+    ]
   },
   {
     "id": "c-lesson-061",
@@ -1456,7 +1722,13 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 递归函数\n\n递归函数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了递归函数的核心知识。",
+    "knowledgePoints": [
+      "c-kp-087",
+      "c-kp-088",
+      "c-kp-089"
+    ]
   },
   {
     "id": "c-lesson-062",
@@ -1477,7 +1749,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 函数指针概念\n\n函数指针概念的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了函数指针概念的核心知识。",
+    "knowledgePoints": [
+      "c-kp-090"
+    ]
   },
   {
     "id": "c-lesson-063",
@@ -1506,7 +1782,13 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 指针变量定义\n\n指针变量定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了指针变量定义的核心知识。",
+    "knowledgePoints": [
+      "c-kp-091",
+      "c-kp-092",
+      "c-kp-093"
+    ]
   },
   {
     "id": "c-lesson-064",
@@ -1533,7 +1815,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 取地址运算符&\n\n取地址运算符&的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了取地址运算符&的核心知识。",
+    "knowledgePoints": [
+      "c-kp-094"
+    ]
   },
   {
     "id": "c-lesson-065",
@@ -1560,7 +1846,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 解引用运算符*\n\n解引用运算符*的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了解引用运算符*的核心知识。",
+    "knowledgePoints": [
+      "c-kp-095"
+    ]
   },
   {
     "id": "c-lesson-066",
@@ -1588,7 +1878,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 指针与数组\n\n指针与数组的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了指针与数组的核心知识。",
+    "knowledgePoints": [
+      "c-kp-096",
+      "c-kp-097"
+    ]
   },
   {
     "id": "c-lesson-067",
@@ -1615,7 +1910,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 指针运算\n\n指针运算的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了指针运算的核心知识。",
+    "knowledgePoints": [
+      "c-kp-098"
+    ]
   },
   {
     "id": "c-lesson-068",
@@ -1642,7 +1941,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 空指针NULL\n\n空指针NULL的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了空指针NULL的核心知识。",
+    "knowledgePoints": [
+      "c-kp-099"
+    ]
   },
   {
     "id": "c-lesson-069",
@@ -1669,7 +1972,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 野指针与悬空指针\n\n野指针与悬空指针的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了野指针与悬空指针的核心知识。",
+    "knowledgePoints": [
+      "c-kp-100"
+    ]
   },
   {
     "id": "c-lesson-070",
@@ -1696,7 +2003,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 二级指针\n\n二级指针的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了二级指针的核心知识。",
+    "knowledgePoints": [
+      "c-kp-101"
+    ]
   },
   {
     "id": "c-lesson-071",
@@ -1718,7 +2029,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 指针与字符串\n\n指针与字符串的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了指针与字符串的核心知识。",
+    "knowledgePoints": [
+      "c-kp-102",
+      "c-kp-103"
+    ]
   },
   {
     "id": "c-lesson-072",
@@ -1739,7 +2055,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 指针数组与数组指针\n\n指针数组与数组指针的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了指针数组与数组指针的核心知识。",
+    "knowledgePoints": [
+      "c-kp-104"
+    ]
   },
   {
     "id": "c-lesson-073",
@@ -1762,7 +2082,13 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 动态内存分配malloc\n\n动态内存分配malloc的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了动态内存分配malloc的核心知识。",
+    "knowledgePoints": [
+      "c-kp-105",
+      "c-kp-106",
+      "c-kp-107"
+    ]
   },
   {
     "id": "c-lesson-074",
@@ -1783,7 +2109,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# calloc与realloc\n\ncalloc与realloc的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了calloc与realloc的核心知识。",
+    "knowledgePoints": [
+      "c-kp-108"
+    ]
   },
   {
     "id": "c-lesson-075",
@@ -1804,7 +2134,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# free释放内存\n\nfree释放内存的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了free释放内存的核心知识。",
+    "knowledgePoints": [
+      "c-kp-109"
+    ]
   },
   {
     "id": "c-lesson-076",
@@ -1825,7 +2159,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 内存泄漏\n\n内存泄漏的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了内存泄漏的核心知识。",
+    "knowledgePoints": [
+      "c-kp-110"
+    ]
   },
   {
     "id": "c-lesson-077",
@@ -1846,7 +2184,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 指针作为函数返回值\n\n指针作为函数返回值的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了指针作为函数返回值的核心知识。",
+    "knowledgePoints": [
+      "c-kp-111"
+    ]
   },
   {
     "id": "c-lesson-078",
@@ -1867,7 +2209,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# const与指针\n\nconst与指针的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了const与指针的核心知识。",
+    "knowledgePoints": [
+      "c-kp-112"
+    ]
   },
   {
     "id": "c-lesson-079",
@@ -1890,7 +2236,13 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 结构体定义\n\n结构体定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了结构体定义的核心知识。",
+    "knowledgePoints": [
+      "c-kp-113",
+      "c-kp-114",
+      "c-kp-115"
+    ]
   },
   {
     "id": "c-lesson-080",
@@ -1911,7 +2263,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 结构体变量初始化\n\n结构体变量初始化的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了结构体变量初始化的核心知识。",
+    "knowledgePoints": [
+      "c-kp-116"
+    ]
   },
   {
     "id": "c-lesson-081",
@@ -1932,7 +2288,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 结构体数组\n\n结构体数组的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了结构体数组的核心知识。",
+    "knowledgePoints": [
+      "c-kp-117"
+    ]
   },
   {
     "id": "c-lesson-082",
@@ -1954,7 +2314,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 结构体指针\n\n结构体指针的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了结构体指针的核心知识。",
+    "knowledgePoints": [
+      "c-kp-118",
+      "c-kp-119"
+    ]
   },
   {
     "id": "c-lesson-083",
@@ -1975,7 +2340,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 结构体嵌套\n\n结构体嵌套的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了结构体嵌套的核心知识。",
+    "knowledgePoints": [
+      "c-kp-120"
+    ]
   },
   {
     "id": "c-lesson-084",
@@ -1996,7 +2365,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 结构体作为函数参数\n\n结构体作为函数参数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了结构体作为函数参数的核心知识。",
+    "knowledgePoints": [
+      "c-kp-121"
+    ]
   },
   {
     "id": "c-lesson-085",
@@ -2018,7 +2391,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 共用体union\n\n共用体union的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了共用体union的核心知识。",
+    "knowledgePoints": [
+      "c-kp-122",
+      "c-kp-123"
+    ]
   },
   {
     "id": "c-lesson-086",
@@ -2039,7 +2417,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 枚举enum\n\n枚举enum的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了枚举enum的核心知识。",
+    "knowledgePoints": [
+      "c-kp-124"
+    ]
   },
   {
     "id": "c-lesson-087",
@@ -2060,7 +2442,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# typedef类型别名\n\ntypedef类型别名的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了typedef类型别名的核心知识。",
+    "knowledgePoints": [
+      "c-kp-125"
+    ]
   },
   {
     "id": "c-lesson-088",
@@ -2082,7 +2468,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 链表基础\n\n链表基础的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了链表基础的核心知识。",
+    "knowledgePoints": [
+      "c-kp-126",
+      "c-kp-127"
+    ]
   },
   {
     "id": "c-lesson-089",
@@ -2103,7 +2494,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 单链表操作\n\n单链表操作的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了单链表操作的核心知识。",
+    "knowledgePoints": [
+      "c-kp-128"
+    ]
   },
   {
     "id": "c-lesson-090",
@@ -2131,7 +2526,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 文件指针FILE\n\n文件指针FILE的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了文件指针FILE的核心知识。",
+    "knowledgePoints": [
+      "c-kp-129",
+      "c-kp-130"
+    ]
   },
   {
     "id": "c-lesson-091",
@@ -2159,7 +2559,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# fopen与fclose\n\nfopen与fclose的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了fopen与fclose的核心知识。",
+    "knowledgePoints": [
+      "c-kp-131",
+      "c-kp-132"
+    ]
   },
   {
     "id": "c-lesson-092",
@@ -2186,7 +2591,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# fprintf与fscanf\n\nfprintf与fscanf的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了fprintf与fscanf的核心知识。",
+    "knowledgePoints": [
+      "c-kp-133"
+    ]
   },
   {
     "id": "c-lesson-093",
@@ -2213,7 +2622,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# fgetc与fputc\n\nfgetc与fputc的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了fgetc与fputc的核心知识。",
+    "knowledgePoints": [
+      "c-kp-134"
+    ]
   },
   {
     "id": "c-lesson-094",
@@ -2240,7 +2653,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# fgets与fputs\n\nfgets与fputs的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了fgets与fputs的核心知识。",
+    "knowledgePoints": [
+      "c-kp-135"
+    ]
   },
   {
     "id": "c-lesson-095",
@@ -2267,7 +2684,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# fread与fwrite\n\nfread与fwrite的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了fread与fwrite的核心知识。",
+    "knowledgePoints": [
+      "c-kp-136"
+    ]
   },
   {
     "id": "c-lesson-096",
@@ -2294,7 +2715,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# fseek与rewind\n\nfseek与rewind的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了fseek与rewind的核心知识。",
+    "knowledgePoints": [
+      "c-kp-137"
+    ]
   },
   {
     "id": "c-lesson-097",
@@ -2321,7 +2746,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# feof与文件结束判断\n\nfeof与文件结束判断的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了feof与文件结束判断的核心知识。",
+    "knowledgePoints": [
+      "c-kp-138"
+    ]
   },
   {
     "id": "c-lesson-098",
@@ -2348,7 +2777,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 二进制文件读写\n\n二进制文件读写的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了二进制文件读写的核心知识。",
+    "knowledgePoints": [
+      "c-kp-139"
+    ]
   },
   {
     "id": "c-lesson-099",
@@ -2375,7 +2808,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 文件复制案例\n\n文件复制案例的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了文件复制案例的核心知识。",
+    "knowledgePoints": [
+      "c-kp-140"
+    ]
   },
   {
     "id": "c-lesson-100",
@@ -2403,7 +2840,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 常见编译错误\n\n常见编译错误的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了常见编译错误的核心知识。",
+    "knowledgePoints": [
+      "c-kp-141",
+      "c-kp-142"
+    ]
   },
   {
     "id": "c-lesson-101",
@@ -2430,7 +2872,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 段错误分析\n\n段错误分析的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了段错误分析的核心知识。",
+    "knowledgePoints": [
+      "c-kp-143"
+    ]
   },
   {
     "id": "c-lesson-102",
@@ -2458,7 +2904,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# gdb调试入门\n\ngdb调试入门的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了gdb调试入门的核心知识。",
+    "knowledgePoints": [
+      "c-kp-144",
+      "c-kp-145"
+    ]
   },
   {
     "id": "c-lesson-103",
@@ -2485,7 +2936,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 断点设置与单步执行\n\n断点设置与单步执行的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了断点设置与单步执行的核心知识。",
+    "knowledgePoints": [
+      "c-kp-146"
+    ]
   },
   {
     "id": "c-lesson-104",
@@ -2512,7 +2967,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 观察变量与内存\n\n观察变量与内存的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了观察变量与内存的核心知识。",
+    "knowledgePoints": [
+      "c-kp-147"
+    ]
   },
   {
     "id": "c-lesson-105",
@@ -2539,7 +2998,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 缓冲区溢出\n\n缓冲区溢出的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了缓冲区溢出的核心知识。",
+    "knowledgePoints": [
+      "c-kp-148"
+    ]
   },
   {
     "id": "c-lesson-106",
@@ -2566,7 +3029,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 内存泄漏检测\n\n内存泄漏检测的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了内存泄漏检测的核心知识。",
+    "knowledgePoints": [
+      "c-kp-149"
+    ]
   },
   {
     "id": "c-lesson-107",
@@ -2593,7 +3060,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 代码风格与规范\n\n代码风格与规范的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了代码风格与规范的核心知识。",
+    "knowledgePoints": [
+      "c-kp-150"
+    ]
   },
   {
     "id": "c-lesson-108",
@@ -2615,7 +3086,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 学生成绩管理系统\n\n学生成绩管理系统的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了学生成绩管理系统的核心知识。",
+    "knowledgePoints": [
+      "c-kp-151",
+      "c-kp-152"
+    ]
   },
   {
     "id": "c-lesson-109",
@@ -2637,7 +3113,12 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 通讯录系统\n\n通讯录系统的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了通讯录系统的核心知识。",
+    "knowledgePoints": [
+      "c-kp-153",
+      "c-kp-154"
+    ]
   },
   {
     "id": "c-lesson-110",
@@ -2658,7 +3139,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 简易图书管理系统\n\n简易图书管理系统的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了简易图书管理系统的核心知识。",
+    "knowledgePoints": [
+      "c-kp-155"
+    ]
   },
   {
     "id": "c-lesson-111",
@@ -2679,7 +3164,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 贪吃蛇游戏\n\n贪吃蛇游戏的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了贪吃蛇游戏的核心知识。",
+    "knowledgePoints": [
+      "c-kp-156"
+    ]
   },
   {
     "id": "c-lesson-112",
@@ -2700,7 +3189,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 计算器程序\n\n计算器程序的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了计算器程序的核心知识。",
+    "knowledgePoints": [
+      "c-kp-157"
+    ]
   },
   {
     "id": "c-lesson-113",
@@ -2721,7 +3214,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 猜数字游戏\n\n猜数字游戏的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了猜数字游戏的核心知识。",
+    "knowledgePoints": [
+      "c-kp-158"
+    ]
   },
   {
     "id": "c-lesson-114",
@@ -2742,7 +3239,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 课程设计报告编写\n\n课程设计报告编写的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了课程设计报告编写的核心知识。",
+    "knowledgePoints": [
+      "c-kp-159"
+    ]
   },
   {
     "id": "c-lesson-115",
@@ -2763,7 +3264,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 项目文档与注释\n\n项目文档与注释的讲义内容。\n\n## 要点\n\n- 核心概念\n- 代码示例\n- 常见错误\n\n## 总结\n\n本章介绍了项目文档与注释的核心知识。",
+    "knowledgePoints": [
+      "c-kp-160"
+    ]
   },
   {
     "id": "c-lesson-116",
@@ -2784,7 +3289,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# C语言编译链接全过程\n\nC语言编译链接全过程的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0116"
+    ]
   },
   {
     "id": "c-lesson-117",
@@ -2805,7 +3314,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Makefile入门\n\nMakefile入门的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0117"
+    ]
   },
   {
     "id": "c-lesson-118",
@@ -2826,7 +3339,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 命令行编译参数\n\n命令行编译参数的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0118"
+    ]
   },
   {
     "id": "c-lesson-119",
@@ -2847,7 +3364,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 命名规范与代码风格\n\n命名规范与代码风格的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0119"
+    ]
   },
   {
     "id": "c-lesson-120",
@@ -2868,7 +3389,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# main函数参数argcargv\n\nmain函数参数argcargv的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0120"
+    ]
   },
   {
     "id": "c-lesson-121",
@@ -2889,7 +3414,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 无符号类型unsigned\n\n无符号类型unsigned的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0121"
+    ]
   },
   {
     "id": "c-lesson-122",
@@ -2910,7 +3439,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# short与long类型\n\nshort与long类型的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0122"
+    ]
   },
   {
     "id": "c-lesson-123",
@@ -2931,7 +3464,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# signed与unsigned区别\n\nsigned与unsigned区别的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0123"
+    ]
   },
   {
     "id": "c-lesson-124",
@@ -2952,7 +3489,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# sizeof运算符\n\nsizeof运算符的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0124"
+    ]
   },
   {
     "id": "c-lesson-125",
@@ -2973,7 +3514,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 逗号表达式\n\n逗号表达式的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0125"
+    ]
   },
   {
     "id": "c-lesson-126",
@@ -2994,7 +3539,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 位运算的实用技巧\n\n位运算的实用技巧的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0126"
+    ]
   },
   {
     "id": "c-lesson-127",
@@ -3015,7 +3564,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# printf格式控制详解\n\nprintf格式控制详解的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0127"
+    ]
   },
   {
     "id": "c-lesson-128",
@@ -3036,7 +3589,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# scanf读取陷阱\n\nscanf读取陷阱的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0128"
+    ]
   },
   {
     "id": "c-lesson-129",
@@ -3057,7 +3614,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 缓冲区刷新fflush\n\n缓冲区刷新fflush的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0129"
+    ]
   },
   {
     "id": "c-lesson-130",
@@ -3078,7 +3639,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# if嵌套与悬空else\n\nif嵌套与悬空else的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0130"
+    ]
   },
   {
     "id": "c-lesson-131",
@@ -3099,7 +3664,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# switch穿透案例\n\nswitch穿透案例的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0131"
+    ]
   },
   {
     "id": "c-lesson-132",
@@ -3120,7 +3689,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# for循环的多种写法\n\nfor循环的多种写法的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0132"
+    ]
   },
   {
     "id": "c-lesson-133",
@@ -3141,7 +3714,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# while循环实现菜单\n\nwhile循环实现菜单的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0133"
+    ]
   },
   {
     "id": "c-lesson-134",
@@ -3162,7 +3739,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 循环与breakcontinue\n\n循环与breakcontinue的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0134"
+    ]
   },
   {
     "id": "c-lesson-135",
@@ -3183,7 +3764,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 死循环与跳出\n\n死循环与跳出的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0135"
+    ]
   },
   {
     "id": "c-lesson-136",
@@ -3204,7 +3789,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 数组的地址与指针关系\n\n数组的地址与指针关系的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0136"
+    ]
   },
   {
     "id": "c-lesson-137",
@@ -3225,7 +3814,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 冒泡排序优化\n\n冒泡排序优化的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0137"
+    ]
   },
   {
     "id": "c-lesson-138",
@@ -3246,7 +3839,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 选择排序实现\n\n选择排序实现的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0138"
+    ]
   },
   {
     "id": "c-lesson-139",
@@ -3267,7 +3864,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 二分查找算法\n\n二分查找算法的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0139"
+    ]
   },
   {
     "id": "c-lesson-140",
@@ -3288,7 +3889,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 二维数组与矩阵\n\n二维数组与矩阵的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0140"
+    ]
   },
   {
     "id": "c-lesson-141",
@@ -3309,7 +3914,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 字符串分割strtok\n\n字符串分割strtok的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0141"
+    ]
   },
   {
     "id": "c-lesson-142",
@@ -3330,7 +3939,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 函数的嵌套调用\n\n函数的嵌套调用的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0142"
+    ]
   },
   {
     "id": "c-lesson-143",
@@ -3351,7 +3964,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 递归实现阶乘\n\n递归实现阶乘的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0143"
+    ]
   },
   {
     "id": "c-lesson-144",
@@ -3372,7 +3989,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 递归实现斐波那契\n\n递归实现斐波那契的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0144"
+    ]
   },
   {
     "id": "c-lesson-145",
@@ -3393,7 +4014,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 汉诺塔问题\n\n汉诺塔问题的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0145"
+    ]
   },
   {
     "id": "c-lesson-146",
@@ -3414,7 +4039,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 函数指针作为参数\n\n函数指针作为参数的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0146"
+    ]
   },
   {
     "id": "c-lesson-147",
@@ -3435,7 +4064,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 内联函数与宏函数\n\n内联函数与宏函数的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0147"
+    ]
   },
   {
     "id": "c-lesson-148",
@@ -3456,7 +4089,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 指针与const\n\n指针与const的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0148"
+    ]
   },
   {
     "id": "c-lesson-149",
@@ -3477,7 +4114,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 指针参数交换值\n\n指针参数交换值的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0149"
+    ]
   },
   {
     "id": "c-lesson-150",
@@ -3498,7 +4139,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 数组指针与指针数组\n\n数组指针与指针数组的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0150"
+    ]
   },
   {
     "id": "c-lesson-151",
@@ -3519,7 +4164,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 函数指针回调\n\n函数指针回调的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0151"
+    ]
   },
   {
     "id": "c-lesson-152",
@@ -3540,7 +4189,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 空指针与段错误\n\n空指针与段错误的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0152"
+    ]
   },
   {
     "id": "c-lesson-153",
@@ -3561,7 +4214,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 二级指针应用\n\n二级指针应用的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0153"
+    ]
   },
   {
     "id": "c-lesson-154",
@@ -3582,7 +4239,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 动态二维数组\n\n动态二维数组的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0154"
+    ]
   },
   {
     "id": "c-lesson-155",
@@ -3603,7 +4264,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 动态链表实现\n\n动态链表实现的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0155"
+    ]
   },
   {
     "id": "c-lesson-156",
@@ -3624,7 +4289,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 内存池概念\n\n内存池概念的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0156"
+    ]
   },
   {
     "id": "c-lesson-157",
@@ -3645,7 +4314,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 结构体对齐与填充\n\n结构体对齐与填充的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0157"
+    ]
   },
   {
     "id": "c-lesson-158",
@@ -3666,7 +4339,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 结构体与文件读写\n\n结构体与文件读写的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0158"
+    ]
   },
   {
     "id": "c-lesson-159",
@@ -3687,7 +4364,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 链表插入删除\n\n链表插入删除的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0159"
+    ]
   },
   {
     "id": "c-lesson-160",
@@ -3708,7 +4389,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# union大小端检测\n\nunion大小端检测的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0160"
+    ]
   },
   {
     "id": "c-lesson-161",
@@ -3729,7 +4414,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# enum应用状态机\n\nenum应用状态机的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0161"
+    ]
   },
   {
     "id": "c-lesson-162",
@@ -3750,7 +4439,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 文本文件与二进制文件\n\n文本文件与二进制文件的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0162"
+    ]
   },
   {
     "id": "c-lesson-163",
@@ -3771,7 +4464,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 文件复制实现\n\n文件复制实现的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0163"
+    ]
   },
   {
     "id": "c-lesson-164",
@@ -3792,7 +4489,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 文件加密解密\n\n文件加密解密的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0164"
+    ]
   },
   {
     "id": "c-lesson-165",
@@ -3813,7 +4514,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 配置文件解析\n\n配置文件解析的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0165"
+    ]
   },
   {
     "id": "c-lesson-166",
@@ -3834,7 +4539,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 日志文件写入\n\n日志文件写入的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0166"
+    ]
   },
   {
     "id": "c-lesson-167",
@@ -3855,7 +4564,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 常见段错误场景\n\n常见段错误场景的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0167"
+    ]
   },
   {
     "id": "c-lesson-168",
@@ -3876,7 +4589,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# gdb查看内存\n\ngdb查看内存的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0168"
+    ]
   },
   {
     "id": "c-lesson-169",
@@ -3897,7 +4614,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 内存泄漏检测valgrind\n\n内存泄漏检测valgrind的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0169"
+    ]
   },
   {
     "id": "c-lesson-170",
@@ -3918,7 +4639,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 代码性能分析\n\n代码性能分析的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0170"
+    ]
   },
   {
     "id": "c-lesson-171",
@@ -3939,7 +4664,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多文件编译调试\n\n多文件编译调试的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0171"
+    ]
   },
   {
     "id": "c-lesson-172",
@@ -3960,7 +4689,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 贪吃蛇游戏开发\n\n贪吃蛇游戏开发的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0172"
+    ]
   },
   {
     "id": "c-lesson-173",
@@ -3981,7 +4714,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 扫雷游戏实现\n\n扫雷游戏实现的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0173"
+    ]
   },
   {
     "id": "c-lesson-174",
@@ -4002,7 +4739,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 迷宫生成算法\n\n迷宫生成算法的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0174"
+    ]
   },
   {
     "id": "c-lesson-175",
@@ -4023,7 +4764,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 简易词典系统\n\n简易词典系统的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0175"
+    ]
   },
   {
     "id": "c-lesson-176",
@@ -4044,7 +4789,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 学生成绩统计系统\n\n学生成绩统计系统的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0176"
+    ]
   },
   {
     "id": "c-lesson-177",
@@ -4065,7 +4814,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 题库抽题系统\n\n题库抽题系统的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0177"
+    ]
   },
   {
     "id": "c-lesson-178",
@@ -4086,7 +4839,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 课程设计文档规范\n\n课程设计文档规范的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0178"
+    ]
   },
   {
     "id": "c-lesson-179",
@@ -4107,7 +4864,11 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 代码审查清单\n\n代码审查清单的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0179"
+    ]
   },
   {
     "id": "c-lesson-180",
@@ -4128,6 +4889,10 @@
       "C语言"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 答辩常见问题\n\n答辩常见问题的讲义内容。",
+    "knowledgePoints": [
+      "c-kp-0180"
+    ]
   }
 ]

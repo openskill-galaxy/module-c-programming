@@ -26,7 +26,15 @@
       "理解指针与内存",
       "具备调试能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "c-lesson-001",
+      "c-lesson-002",
+      "c-lesson-003",
+      "c-lesson-004",
+      "c-lesson-005"
+    ],
+    "summary": "C语言概述、开发环境搭建、第一个程序Hello World、编译运行流程。"
   },
   {
     "id": "c-course-02",
@@ -56,7 +64,16 @@
       "理解指针与内存",
       "具备调试能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "c-lesson-006",
+      "c-lesson-007",
+      "c-lesson-008",
+      "c-lesson-009",
+      "c-lesson-010",
+      "c-lesson-011"
+    ],
+    "summary": "程序基本结构、main函数、头文件、注释、语句与代码块。"
   },
   {
     "id": "c-course-03",
@@ -88,7 +105,18 @@
       "理解指针与内存",
       "具备调试能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "c-lesson-012",
+      "c-lesson-013",
+      "c-lesson-014",
+      "c-lesson-015",
+      "c-lesson-016",
+      "c-lesson-017",
+      "c-lesson-018",
+      "c-lesson-019"
+    ],
+    "summary": "基本数据类型、变量定义与初始化、常量、类型转换。"
   },
   {
     "id": "c-course-04",
@@ -120,7 +148,18 @@
       "理解指针与内存",
       "具备调试能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "c-lesson-020",
+      "c-lesson-021",
+      "c-lesson-022",
+      "c-lesson-023",
+      "c-lesson-024",
+      "c-lesson-025",
+      "c-lesson-026",
+      "c-lesson-027"
+    ],
+    "summary": "各类运算符、优先级与结合性、表达式的求值。"
   },
   {
     "id": "c-course-05",
@@ -149,7 +188,15 @@
       "理解指针与内存",
       "具备调试能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "c-lesson-028",
+      "c-lesson-029",
+      "c-lesson-030",
+      "c-lesson-031",
+      "c-lesson-032"
+    ],
+    "summary": "printf和scanf格式化输入输出、字符输入输出、文件重定向。"
   },
   {
     "id": "c-course-06",
@@ -182,7 +229,19 @@
       "理解指针与内存",
       "具备调试能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "c-lesson-033",
+      "c-lesson-034",
+      "c-lesson-035",
+      "c-lesson-036",
+      "c-lesson-037",
+      "c-lesson-038",
+      "c-lesson-039",
+      "c-lesson-040",
+      "c-lesson-041"
+    ],
+    "summary": "if/switch选择结构、while/do-while/for循环、break/continue控制。"
   },
   {
     "id": "c-course-07",
@@ -218,7 +277,22 @@
       "理解指针与内存",
       "具备调试能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "c-lesson-042",
+      "c-lesson-043",
+      "c-lesson-044",
+      "c-lesson-045",
+      "c-lesson-046",
+      "c-lesson-047",
+      "c-lesson-048",
+      "c-lesson-049",
+      "c-lesson-050",
+      "c-lesson-051",
+      "c-lesson-052",
+      "c-lesson-053"
+    ],
+    "summary": "一维数组、二维数组、字符数组、字符串处理函数、数组应用。"
   },
   {
     "id": "c-course-08",
@@ -251,7 +325,19 @@
       "理解指针与内存",
       "具备调试能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "c-lesson-054",
+      "c-lesson-055",
+      "c-lesson-056",
+      "c-lesson-057",
+      "c-lesson-058",
+      "c-lesson-059",
+      "c-lesson-060",
+      "c-lesson-061",
+      "c-lesson-062"
+    ],
+    "summary": "函数定义与声明、参数传递、返回值、作用域、递归。"
   },
   {
     "id": "c-course-09",
@@ -283,7 +369,18 @@
       "理解指针与内存",
       "具备调试能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "c-lesson-063",
+      "c-lesson-064",
+      "c-lesson-065",
+      "c-lesson-066",
+      "c-lesson-067",
+      "c-lesson-068",
+      "c-lesson-069",
+      "c-lesson-070"
+    ],
+    "summary": "指针概念、地址运算符、解引用、指针与数组、指针运算。"
   },
   {
     "id": "c-course-10",
@@ -315,7 +412,18 @@
       "理解指针与内存",
       "具备调试能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "c-lesson-071",
+      "c-lesson-072",
+      "c-lesson-073",
+      "c-lesson-074",
+      "c-lesson-075",
+      "c-lesson-076",
+      "c-lesson-077",
+      "c-lesson-078"
+    ],
+    "summary": "指针与字符串、指针数组、数组指针、函数指针、动态内存分配。"
   },
   {
     "id": "c-course-11",
@@ -350,7 +458,21 @@
       "理解指针与内存",
       "具备调试能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "c-lesson-079",
+      "c-lesson-080",
+      "c-lesson-081",
+      "c-lesson-082",
+      "c-lesson-083",
+      "c-lesson-084",
+      "c-lesson-085",
+      "c-lesson-086",
+      "c-lesson-087",
+      "c-lesson-088",
+      "c-lesson-089"
+    ],
+    "summary": "结构体定义与使用、结构体数组与指针、共用体、枚举、typedef。"
   },
   {
     "id": "c-course-12",
@@ -384,7 +506,20 @@
       "理解指针与内存",
       "具备调试能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "c-lesson-090",
+      "c-lesson-091",
+      "c-lesson-092",
+      "c-lesson-093",
+      "c-lesson-094",
+      "c-lesson-095",
+      "c-lesson-096",
+      "c-lesson-097",
+      "c-lesson-098",
+      "c-lesson-099"
+    ],
+    "summary": "文件打开与关闭、文件读写、文件定位、二进制文件、文件应用。"
   },
   {
     "id": "c-course-13",
@@ -416,7 +551,18 @@
       "理解指针与内存",
       "具备调试能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "c-lesson-100",
+      "c-lesson-101",
+      "c-lesson-102",
+      "c-lesson-103",
+      "c-lesson-104",
+      "c-lesson-105",
+      "c-lesson-106",
+      "c-lesson-107"
+    ],
+    "summary": "常见编程题型、代码调试方法、gdb使用、常见错误与处理方法。"
   },
   {
     "id": "c-course-14",
@@ -448,6 +594,17 @@
       "理解指针与内存",
       "具备调试能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "c-lesson-108",
+      "c-lesson-109",
+      "c-lesson-110",
+      "c-lesson-111",
+      "c-lesson-112",
+      "c-lesson-113",
+      "c-lesson-114",
+      "c-lesson-115"
+    ],
+    "summary": "学生成绩管理系统、通讯录系统、图书管理系统、综合课程设计。"
   }
 ]
