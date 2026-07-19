@@ -1,8 +1,8 @@
 {
-  "name": "openskill-module-c-programming",
+  "name": "openskill-module-template",
   "version": "1.0.0",
   "private": true,
-  "description": "OpenSkill Galaxy C 语言程序设计模块：C语法、数组、函数、指针、结构体、文件操作、编程题与课程设计训练。",
+  "description": "OpenSkill Galaxy reusable static learning module template.",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,11 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "appwrite": "^26.2.0",
+    "fuse.js": "^7.0.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.26.2",
-    "zustand": "^4.5.5",
-    "fuse.js": "^7.0.0"
+    "zustand": "^4.5.5"
   },
   "devDependencies": {
     "@types/node": "^22.5.0",
